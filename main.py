@@ -23,9 +23,9 @@ if response.status_code ==200:
     #Nu skal den så kunne vise de oplysninger den har om det angivende land.
     print("Information om landet:")
     print("Hovedstad:", Hovedstad[0])
-    print("Areal:", "km^2")
-    print("Valuta:")
-    print("Sprog:")
-    print("Nabolande")
+    print("Areal:", Areal)
+    print("Valuta:", Valuta)
+    print("Sprog:", Sprog)
+    print("Nabolande", Nabolande)
 else: 
     print("Fejl! Landet findes ikke.")

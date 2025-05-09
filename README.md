@@ -21,7 +21,7 @@ splash screen
 
 
 ## Evaulering
-Evaluering af mit program viser at programmet fungerer stabilt, så længe brugeren skriver landets navn korrekt. Dog er der en begrænsning, som jeg har fundet. For eksempel er programmet følsomt over for store og små bogstaver samt stavefejl. Hvis brugeren eksempelvis skriver "danmark" i stedet for "Danmark" vil programmet sige at landet ikke findes. Derfor vil jeg mene at programmet skal udvikles hvis den vil anvendes i store sammenhænge. Et forslag på udvikling kunne være at man får kodet automatisk håndtering 
+Evaluering af mit program viser at programmet fungerer stabilt, så længe brugeren skriver landets navn korrekt. Dog er der en begrænsning, som jeg har fundet. For eksempel er programmet følsomt over for store og små bogstaver samt stavefejl. Hvis brugeren eksempelvis skriver "danmark" i stedet for "Danmark" vil programmet sige at landet ikke findes. Derfor vil jeg mene at programmet skal udvikles hvis den vil anvendes i store sammenhænge. Et forslag på udvikling kunne være at man får kodet automatisk håndtering.
 
 ## Konklusion
 Gennem udviklingen af dette program har jeg fået en dybere forståelse for, hvordan man arbejder med datastrukturer som ordbøger, og hvordan man gør programmer mere brugervenlige gennem input. Jeg har set, hvordan data kan bruges effektivt, så det bliver nemmere at hente og vise information til brugeren. Programmet opfylder grundlæggende sit formål ved at give brugeren mulighed for at søge på et land og giver oplysninger på en klar og enkel måde.
